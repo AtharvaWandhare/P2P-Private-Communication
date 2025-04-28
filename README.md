@@ -68,10 +68,6 @@ For testing purposes, you can open the app in two different browser tabs or wind
 - Only connection negotiation information passes through the server
 - For even higher security, consider running the signaling server on your own infrastructure
 
-## License
-
-MIT
-
 ## Acknowledgments
 
 - WebRTC technology makes direct peer-to-peer communication possible
